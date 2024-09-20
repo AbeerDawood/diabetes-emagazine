@@ -128,7 +128,7 @@ hr {
 }
 
 .dotted-circle-1 {
-    background: url('../img/article-05.png') no-repeat center;
+    background: url('img/article-05.png') no-repeat center;
     background-size: contain;
     border-style: dashed solid solid solid;
     border-color: #48228a #48228a gainsboro #48228a;
